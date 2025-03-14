@@ -1,3 +1,6 @@
 # Twoj-Start-W-ML
 
-Kod użyty podczas tutorialu https://youtu.be/d-Jh6eO_5qc
+Kod użyty podczas tutorialu:
+*Przygotowanie danych do treningu modelu*: https://youtu.be/d-Jh6eO_5qc 
+oraz
+ *Trenowanie Modelu ML*
