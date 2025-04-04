@@ -1,4 +1,6 @@
-ak to ribic# Twoj-Start-W-ML
+# Twoj-Start-W-ML
+
+- Data_prep: 
 
 Kod użyty podczas tutorialu:  
 
@@ -11,3 +13,6 @@ oraz
  **Trenowanie Modelu ML**:  
  
  https://www.youtube.com/watch?v=qnikedWLqRw
+
+ - blog_generator.py : 
+ Kod użyty w tutorialu: 
