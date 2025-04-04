@@ -1,6 +1,6 @@
 # Twoj-Start-W-ML
 
-- Data_prep: 
+- Data_prep.ipynb: 
 
 Kod użyty podczas tutorialu:  
 
