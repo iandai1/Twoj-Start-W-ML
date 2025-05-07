@@ -10,9 +10,12 @@ https://youtu.be/d-Jh6eO_5qc
 
 oraz  
 
- **Trenowanie Modelu ML**:  
-  - blog_generator.py : 
+
+  - blog_generator.py :
+    
  Kod użyty w tutorialu: 
+
+  **Trenowanie Modelu ML**:  
  
  https://www.youtube.com/watch?v=qnikedWLqRw
 
