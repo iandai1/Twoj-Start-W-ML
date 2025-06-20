@@ -1,6 +1,5 @@
 # Twoj-Start-W-ML
 
-- Data_prep.ipynb: 
 
 Kod użyty podczas tutorialu:  
 
@@ -8,15 +7,17 @@ Kod użyty podczas tutorialu:
 
 https://youtu.be/d-Jh6eO_5qc   
 
+znajdziesz tu: Data_prep.ipynb
+
 oraz  
 
-
-  - blog_generator.py :
     
  Kod użyty w tutorialu: 
 
   **Trenowanie Modelu ML**:  
  
  https://www.youtube.com/watch?v=qnikedWLqRw
+
+ znajdziesz tu:  blog_generator.py
 
 
