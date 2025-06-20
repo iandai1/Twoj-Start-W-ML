@@ -5,12 +5,11 @@ Kod użyty podczas tutorialu: [Przygotowanie danych do treningu modelu](https://
 
 znajdziesz w: **Data_prep.ipynb**
 
+
 oraz  
 
     
 Kod użyty podczas tutorialu: [Trenowanie Modelu ML](https://www.youtube.com/watch?v=qnikedWLqRw)
-
-  **Trenowanie Modelu ML**:  
 
 znajdziesz w **blog_generator.py**
 
